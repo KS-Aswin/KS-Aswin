@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ks-aswin&label=Profile%20views&color=0e75b6&style=flat" alt="ks-aswin" /> </p>
 
-- 🌱 I’m currently learning **ColdFusion**
+- 🌱 I’m currently learning **React+GoLang**
 
 - 📫 How to reach me **aswinks1231@gmail.com**
 
